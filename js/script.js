@@ -1,1 +1,0 @@
-$(".benefit-title .subhead").lettering('words').children("span").lettering();
