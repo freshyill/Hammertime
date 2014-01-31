@@ -1,2 +1,2 @@
-Author: Christopher Coleman
-Version: 1.0.3
+Author: Chris Coleman
+Version: 1.0.4
